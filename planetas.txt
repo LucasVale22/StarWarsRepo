@@ -2,3 +2,4 @@ Alderran
 Endor
 Cornoscut
 Tatooine
+Terra
